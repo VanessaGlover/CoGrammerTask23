@@ -1,5 +1,6 @@
 single_string = "The!quick!brown!fox!jumps!over!the!lazy!dog."
 
+# Replace "!" with " " and convert to uppercase in a single line
 new_single_string = single_string.replace("!" , " ")
 print(new_single_string)
 
